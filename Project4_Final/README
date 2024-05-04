@@ -1,0 +1,15 @@
+Project 4 Final Submission
+
+First off, you want to download all of the files within this folder, as it will ensure that the program runs smoothly. The key files that will require some input are "P4init.m" and "Project4Main.m"
+The init file will ensure that the workspace is adequate and that all necessary variables are present for running the main file. After running P4init, you will then want to run Project4Main which will conduct the whole simulation. The set stop time is 3600 seconds so the completion of the simulation will take a bit. 
+This simulation will open a figure displaying the track, along with the car. The code takes a bit to start moving the car due to the long stop time but I promise it will move!
+
+The Project4Main file ensures that everything is displayed and that raceStat is displayed in the command window after the simulation is complete. In the command window you will find the number of loops done along with other info about SOC, and importantly, you will see that brake violation is "False".
+
+*** For viewing the car in motion, it is recommended that you fullscreen the figure since the trailing line can cover the car ***
+
+That should be all to run the simulation: 1. Run init file, 2. Run Project4Main file, 3. Enjoy the simulation.
+
+Thank you Diego for all the explanations and info you gave us this semester, I enjoyed having you as a TA and wish you the best in your future.
+
+-Santi
